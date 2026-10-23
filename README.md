@@ -206,9 +206,9 @@ Estimated Total
 R7,750 – R16,800 
 
 Screenshot evidence
-<img src="images/headerimage.png">
-<img src="images/ipadview.png">
-<img src="images/mobileview.png">
+<img src="images/desktop.png">
+<img src="images/tabletview.png">
+<img src="images/phoneview.png">
 
  
 
