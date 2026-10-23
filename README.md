@@ -1,11 +1,11 @@
 # kealedira
-Organisational Overview. 
+##Organisational Overview. 
 
 Kealedira Holdings is an FMCG business specialising in Bulk-breaking and Distribution of 	fast-moving consumer products. The business was established to provide reliable access 	to quality consumer products to businesses and retailers. Its mission is to deliver reliable, 	affordable , and efficient FMCG distribution services while building strong customer 	relationships. Its vision is to become a trusted and leading distribution partner in South 	Africa. The businesses target audience includes Retailers, Small Businesses, Wholesalers 	and Supermarkets, Kealedira Holdings aims to support these customers through 	convenient supply and dependable distribution services. 
 
  
 
-Website Goals and Objectives. 
+##Website Goals and Objectives. 
 
 The website will increase Kealedira Holdings’ online visibility, attract potential B2B customers, and generate qualified leads. Objectives include increasing traffic through SEO and social media, encouraging quote requests, and improving visitor-to-lead conversion. Key KPIs include: 
 
